@@ -52,4 +52,3 @@ This script is for educational purposes only. Be aware that scraping Facebook ma
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
 
 ## License
-[Specify your license here, e.g., MIT, GPL, etc.]
